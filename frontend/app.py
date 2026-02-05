@@ -81,7 +81,7 @@ embedder = load_embedder()
 def load_index():
 
     base_dir = os.path.dirname(__file__)
-    backend_dir = os.path.abspath(os.path.join(base_dir, "..", "backend"))
+    backend_dir = os.path.join(os.getcwd(), "backend")
     vector_dir = os.path.join(backend_dir, "vector_db")
 
     index_path = os.path.join(vector_dir, "index.faiss")
