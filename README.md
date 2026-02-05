@@ -1,5 +1,3 @@
-# **Pluang AI Knowledge Base Copilot**
-
 # Pluang AI Knowledge Base Copilot
 
 A possible solution could be an internal AI assistant developed with the Retrieval-Augmented Generation model that could help the employees search company documents in an efficient way.
