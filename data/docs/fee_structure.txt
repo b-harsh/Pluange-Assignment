@@ -1,0 +1,4 @@
+TRANSACTION FEES:
+- Gold: 0% Transaction fee (Spread applies).
+- Crypto: 0.1% per transaction.
+- Mutual Funds: 0% subscription and redemption fee.

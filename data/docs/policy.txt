@@ -1,0 +1,3 @@
+Employees are entitled to 20 paid leaves per year.
+Casual leave can be taken without prior notice.
+Medical leave requires documentation.
