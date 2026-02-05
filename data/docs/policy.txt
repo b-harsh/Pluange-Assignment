@@ -1,3 +1,35 @@
-Employees are entitled to 20 paid leaves per year.
-Casual leave can be taken without prior notice.
-Medical leave requires documentation.
+Regulatory bodies:
+
+OJK (Financial Services Authority Indonesia)
+
+BAPPEBTI (Commodity Futures Regulator)
+
+Licensing structure:
+
+Different assets handled by licensed partners:
+
+PT PG Berjangka → stocks/ETFs
+
+PT Bumi Santosa Cemerlang → crypto
+
+PT Sarana Santosa Sejati → mutual funds
+
+PT Pluang Emas Sejahtera → gold
+
+ Funds often stored in segregated custodian bank accounts.
+
+ Available on website/app:
+
+Legal documents usually include:
+
+Terms of service
+
+Privacy policy
+
+Risk disclosure
+
+AML/KYC compliance policies
+
+Investor protection disclosures
+
+Data protection policy

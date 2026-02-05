@@ -1,4 +1,20 @@
-TRANSACTION FEES:
-- Gold: 0% Transaction fee (Spread applies).
-- Crypto: 0.1% per transaction.
-- Mutual Funds: 0% subscription and redemption fee.
+Typical publicly disclosed fees:
+Trading fees
+
+~0.1% for some spot transactions
+
+~0.3% for stocks & ETFs
+
+Other fees
+
+Possible withdrawal fees depending on method
+
+Potential inactivity fees
+
+Overnight fees for leveraged trades (~0.0215% typical)
+
+Deposits
+
+Usually free deposits (varies by method)
+
+ Exact fees vary by asset class and partner broker.
