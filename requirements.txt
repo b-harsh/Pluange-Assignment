@@ -1,5 +1,8 @@
 streamlit
-google-generativeai
 faiss-cpu
 sentence-transformers
+numpy
 python-dotenv
+groq
+torch
+transformers
