@@ -7,6 +7,20 @@ from sentence_transformers import SentenceTransformer
 from config import DOCS_PATH, VECTOR_DB_PATH
 
 
+def chunk_with_overlap(text, chunk_size=150, overlap=30):
+    
+    words = text.split()
+    chunks = []
+
+    step = chunk_size - overlap
+
+    for i in range(0, len(words), step):
+        chunk = " ".join(words[i:i + chunk_size])
+        chunks.append(chunk)
+
+    return chunks
+
+
 def load_documents():
     docs = []
     sources = []
@@ -18,7 +32,7 @@ def load_documents():
             with open(path, "r", encoding="utf-8") as f:
                 text = f.read()
 
-                chunks = text.split("\n")
+                chunks = chunk_with_overlap(text)
 
                 for chunk in chunks:
                     if chunk.strip():
