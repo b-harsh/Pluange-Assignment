@@ -114,8 +114,8 @@ Example:
 
 ```
 
-Chunk Size: 500 tokens
-Overlap: 50 tokens
+Chunk Size: 150 tokens
+Overlap: 30 tokens
 
 ```
 
