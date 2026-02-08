@@ -4,6 +4,11 @@ A possible solution could be an internal AI assistant developed with the Retriev
 
 The system retrieves relevant data from internal documents and gives answers based on Large Language Models, along with citations.
 
+<img width="1914" height="966" alt="image" src="https://github.com/user-attachments/assets/5ddfa263-9502-4d55-ad51-e5c90666d02a" />
+
+
+https://github.com/user-attachments/assets/83d9cc63-4df3-4c40-ae81-94775612da04
+
 ## Motivation
 
 Employees of large organizations are required to spend a considerable amount of time going through policies, guidelines, and manuals within the organizations.
